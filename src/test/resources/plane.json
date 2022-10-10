@@ -1,0 +1,11 @@
+{
+  "model": "Boeing 737-800",
+  "isCertificated": true,
+  "passport": {
+    "serialNumber": 78656985,
+    "partialNumber": "PNR",
+    "createdBy": "USA"
+  },
+  "legalFlightAreas" : ["USA","Europe","Asia"]
+
+}
